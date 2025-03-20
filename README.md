@@ -92,3 +92,4 @@ Image classification is a powerful technology that has transformed multiple indu
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/bf0204cd-a701-4210-9cb3-ad8c6947dd1d)
+![Image](https://github.com/user-attachments/assets/aaf21c2b-09bd-4201-a184-a9f38b15ebb0)
